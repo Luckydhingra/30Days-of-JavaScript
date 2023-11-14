@@ -23,9 +23,16 @@ Expected Output: 'The Quick Brown Fox '
 <!-- day-6 -->
 ## Challenge 6
 ### Write a JavaScript program to compute the sum of the two given integers. If the two values are the same, then return triple their sum
+<!-- day-7 -->
 ## Challenge 7
 ### Write a JavaScript program to check a pair of numbers and return true if one of the numbers is 50 or if their sum is 50.
+<!-- day-8 -->
 ## Challenge 8
  ### Write a JavaScript function to get all possible subsets with a fixed length (for example 2) combinations in an array.
 Sample array : [1, 2, 3] and subset length is 2
-Expected output : [[2, 1], [3, 1], [3, 2], [3, 2, 1]]
+Expected output : [[2, 1], [3, 1], [3, 2], ]
+<!-- day-9 -->
+## Challenge 9
+### Write a JavaScript function to find the first not repeated character.
+Sample arguments : 'abacddbec'
+Expected output : 'e'
