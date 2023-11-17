@@ -42,11 +42,26 @@ Expected output : 'e'
 ###### Note : According to wikipedia "Bubble sort, sometimes referred to as sinking sort, is a simple sorting algorithm that works by repeatedly stepping through the list to be sorted, comparing each pair of adjacent items and swapping them if they are in the wrong order".
 Sample array: [12, 345, 4, 546, 122, 84, 98, 64, 9, 1, 3223, 455, 23, 234, 213]
 Expected output: [3223, 546, 455, 345, 234, 213, 122, 98, 84, 64, 23, 12, 9, 4, 1]
+<!-- day-12-->
 ## Challenge 11
 ### Write a JavaScript program to list the properties of a JavaScript object.
-###### Sample object:
-###### var student = {
-###### name : "David Rayy",
-###### sclass : "VI",
-###### rollno : 12 };
-#### Sample Output: name,sclass,rollno
+Sample object:
+var student = {
+name : "David Rayy",
+sclass : "VI",
+rollno : 12 };
+
+Sample Output: 
+name,sclass,rollno
+<!--day-12-->
+ ## Challenge 12
+ ### Write a JavaScript program to create a clock.
+ Note: The output will come every second.
+
+Expected Console Output:
+"14:37:42"
+"14:37:43"
+ "14:37:44"
+"14:37:45"
+"14:37:46"
+"14:37:47" 
