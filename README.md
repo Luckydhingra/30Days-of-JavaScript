@@ -65,3 +65,8 @@ Expected Console Output:
 "14:37:45"
 "14:37:46"
 "14:37:47" 
+## Challenge 13
+###  Write a function that takes a function as its argument and returns a memoized version of the function.
+Problem Statement: Implement a memoization function.
+
+Solution Approach: Store the function's results for previous inputs and return the stored result for repeated inputs.
