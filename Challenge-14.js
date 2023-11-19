@@ -15,6 +15,6 @@ function repeat(str, count) {
   }
   return count < 1 ? '' : new Array(count + 1).join(str);
     }
-console.log(repeat(' 30-Days'));
-console.log(repeat(' of',2));
-console.log(repeat(' JavaScript',3));
+console.log(repeat('Ha!'));
+console.log(repeat('Ha!',2));
+console.log(repeat('Ha! ',3));
