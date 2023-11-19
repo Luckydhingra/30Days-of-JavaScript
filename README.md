@@ -64,9 +64,26 @@ Expected Console Output:
  "14:37:44"
 "14:37:45"
 "14:37:46"
-"14:37:47" 
+"14:37:47".
+<!--day-13--> 
 ## Challenge 13
 ###  Write a function that takes a function as its argument and returns a memoized version of the function.
 Problem Statement: Implement a memoization function.
 
 Solution Approach: Store the function's results for previous inputs and return the stored result for repeated inputs.
+<!--day-14-->
+## Challenge 14
+### Write a JavaScript function to concatenate a given string n times (default is 1). Go to the editor
+Test Data : -
+console.log(repeat('Ha!'));
+
+console.log(repeat('Ha!',2));
+
+console.log(repeat('Ha!',3));
+
+Outputs  : - 
+"Ha!"
+
+"Ha!Ha!"
+
+"Ha!Ha!Ha! .
