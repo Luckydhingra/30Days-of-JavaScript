@@ -87,3 +87,17 @@ Outputs  : -
 "Ha!Ha!"
 
 "Ha!Ha!Ha! .
+<!--day-15 -->
+## Challenge 15
+### Problem Description - Create a string_chop function that takes a string and chop factor(size) and chops out the string into the factor(size) that has been passed
+Test Data :
+
+console.log(string_chop('Scaler'));
+
+console.log(string_chop('Scaler',2));
+
+Outputs
+
+["Scaler"]
+
+['Sc' , 'al' ,'er']
