@@ -12,7 +12,7 @@ Use the find() method and provide a callback that checks if the number is negati
 function findFirstNegative(num){
     let negative = num.find(num => num < 0);
     if (negative === undefined){
-        return "No negative numbers found!";
+        return "undefined";
     } else {
         return negative;
     }
