@@ -167,4 +167,8 @@ A number representing the first negative number in the array or undefined if the
 ### Problem Statement: Write an asynchronous loop function that iterates over an array and performs an asynchronous operation on each element.
  Solution Approach: Use async/await within a for...of loop. 
 #### Description: The function should take an array and an async function, applying the async function to each element in the array in sequence.
-
+<!-- day-22 -->
+## Challenge 22
+### Problem Statement: Write a function to deeply compare two objects for equality.
+Solution Approach: Recursively compare properties of both objects
+#### Description: Given two objects, the function should return true if they are deeply equal and false otherwise.
