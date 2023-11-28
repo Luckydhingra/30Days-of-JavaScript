@@ -172,3 +172,9 @@ A number representing the first negative number in the array or undefined if the
 ### Problem Statement: Write a function to deeply compare two objects for equality.
 Solution Approach: Recursively compare properties of both objects
 #### Description: Given two objects, the function should return true if they are deeply equal and false otherwise.
+<!--day-23-->
+## Challenge 23
+### Description: Write a function counter that returns a new function on each invocation. The returned function, when called, should increment the counter value and return it.
+Problem : Closure Challenge
+
+Solution Approach:  Utilize closure to maintain the state of the counter
