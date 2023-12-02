@@ -192,3 +192,8 @@ Use a timer and clear it on each invocation to delay the function execution.
 ### Description: Write a function calculateTotal that takes an array of numbers, filters out the even numbers, squares the remaining numbers, and then calculates their sum.
 Solution Approach:
 Combine map, filter, and reduce array methods.
+<!-- day-27 -->
+## Challenge 27
+### Description: Write a generator function range that takes two arguments, start and end, and yields all the numbers in that range.
+Solution Approach:
+Use the function* syntax for generator functions and the yield keyword.
