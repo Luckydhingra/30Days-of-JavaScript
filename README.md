@@ -187,3 +187,8 @@ Use a timer and clear it on each invocation to delay the function execution.
 ## Challenge 25 
 ### Description: Write a function getData that returns a Promise. Use this function to fetch data from two different APIs sequentially, and return the combined result. Use any random API that you want
  Solution Approach: Utilize the .then method to chain promises.
+ <!--day-26-->
+##  Challenge 26
+### Description: Write a function calculateTotal that takes an array of numbers, filters out the even numbers, squares the remaining numbers, and then calculates their sum.
+Solution Approach:
+Combine map, filter, and reduce array methods.
