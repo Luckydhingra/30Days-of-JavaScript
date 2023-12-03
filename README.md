@@ -197,3 +197,8 @@ Combine map, filter, and reduce array methods.
 ### Description: Write a generator function range that takes two arguments, start and end, and yields all the numbers in that range.
 Solution Approach:
 Use the function* syntax for generator functions and the yield keyword.
+<!-- Day-28 --->
+## Challenge 28
+### Description: Create a proxy object that intercepts and logs all property access.
+Solution Approach:
+Use the Proxy object to create a wrapper around another object.
