@@ -202,3 +202,8 @@ Use the function* syntax for generator functions and the yield keyword.
 ### Description: Create a proxy object that intercepts and logs all property access.
 Solution Approach:
 Use the Proxy object to create a wrapper around another object.
+<!--day29-->
+## Challenge 29
+### Description:Write a function raceWithTimeout that takes an array of promises and a timeout value. The function should resolve when the first promise resolves or reject if none resolve within the given timeout.
+Solution Approach:
+Use Promise.race and a timeout promise.
