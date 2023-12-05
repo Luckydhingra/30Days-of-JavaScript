@@ -207,3 +207,14 @@ Use the Proxy object to create a wrapper around another object.
 ### Description:Write a function raceWithTimeout that takes an array of promises and a timeout value. The function should resolve when the first promise resolves or reject if none resolve within the given timeout.
 Solution Approach:
 Use Promise.race and a timeout promise.
+<!--day-30-->
+## Description:Implement a throttle function that ensures a given function is not called more than once in a specified time interval.
+Solution Approach:
+Use a timestamp to track the last invocation time and prevent calling the function if it's within the throttle interval.
+
+## Congratulations on Completion of  of 30 Days of JavaScript ! 🎉🚀
+ ![Alt text](<SCALER JS.png>)
+
+
+##### A massive round of applause  who took up the challenge and conquered the 30 Days of JavaScript with Scaler Topics! 🚀.... Commitment, Dedication, and Passion for coding have truly shone throughout this month-long journey.
+
